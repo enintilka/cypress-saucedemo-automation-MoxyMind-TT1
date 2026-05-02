@@ -1,4 +1,4 @@
-# Cypress SauceDemo Automation
+# Cypress SauceDemo Automation For MoxyMind TT1
 
 ## Description
 
@@ -81,13 +81,21 @@ This test verifies the full purchase flow.
 
 ## Installation
 
-Run:
+1. Clone the repository:
+```bash
+git clone https://github.com/enintilka/cypress-saucedemo-automation-MoxyMind-TT1
+```
 
-```bash id="4t6dpk"
+2. Navigate to the project folder:
+```bash
+cd cypress-saucedemo-automation-MoxyMind-TT1
+```
+
+3. Install dependencies:
+```bash
 npm install
 ```
 
----
 
 ## Run Tests
 
