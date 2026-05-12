@@ -1,4 +1,4 @@
-describe('User visit saucedemo page and enters valid credentials and logs into the system.',()=>{
+describe('Automate main functionality of saucedemo page',()=>{
   beforeEach(()=>{
     cy.visit('https://www.saucedemo.com/')
     cy.get('.login_logo')
